@@ -1,5 +1,9 @@
 # ideas-dev
 
+
+MATURITY MATRIX for dev sec ops 
+industry patterns like data CRISP-DM but for web dev - tickets standard 
+
 User Story: 
 Implementation Requirement: 
 Details: 
