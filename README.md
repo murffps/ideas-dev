@@ -1,89 +1,55 @@
 # ideas-dev
 
+WORK ITEM TEMPLATE
 
-MATURITY MATRIX for dev sec ops 
-industry patterns like data CRISP-DM but for web dev - tickets standard 
-
-User Story: 
-Implementation Requirement: 
-Details: 
-Edge Case: if applicable 
-SOURCE (design or related):
+DEFAULT most common user expectaions .. ex: notificaitons in an app that needs them 
+EFFORT level:
+1. fancy 
+5. least fancy 
 
 
-USER CASES for consideration in acceptance criteria 
+Requirement/User story: 
+Desired Business Value if applicable:
+Details [include any COPY or styles requirements if not explicitly stated in the next item] :
+Design docs, images, source/link:
 
-Requirement/User story:  as you select the address, all the other fields appear, populated.
+Pre Code Consistency check: 
+	-  make sure these states/style patterns are the same, if desired to be(check with design), for all parts of the app.
+	- Check for global reusable styles and components 
 
 Q: What event(s) is (are) expected to trigger the "expansion"?
 
-Possible events:
+Possible events:  Here is a list of the possible UI events for reference: https://developer.mozilla.org/en-US/docs/Web/API/UI_Events 
 
-DESKTOP:
-	Enter - Fetchify does NOT allow ENTER to work but currently ours allows ENTER to exit the tool and go to the next input
+	DESKTOP:
+	MOBILE:
+	Other specific sizes (note the px size for media query) like Tablet if applicable:
+	BOTH:
+
+
+Q: What are the expected states related to this user action [can also be stated as the how to "handle" user input & events]?
+
+	Are the CURRENT states to be changed at all if NOT new? If so, each item would be split in 2 columns. 
+	DEFAULT STATE:
+	SUCCESS: 
+	LOADING STATE:
+	ERRORS STATES: 
+	UNKNOWN:
+	ACCESSIBILITY Requirements:
+	Translation Considerations:
+	Data Persistence Considerations: 
+	OTHER STATES [this should cover ALL edge cases even if stating to not worry in certain cases]:
 	
-	Mouse click the desired address 
-	
-MOBILE:
+	NOTE: not all states will be applicable to certain components
 
-	Tap
-	
-BOTH potentially:
-Interacting with AUTO FILL from either Browser keychain tools or phone stuff
+CAUTIONS/GOTCHAs or related work worth mentioning:
 
-	
-Q: What are the expected states related to this user action?
-SUCCESS: 
-ERRORS STATES:
-Currently … vs… desired 
-UNKNOWN/DEFAULT/ LOADING STATE
+RASCI [who can make decisions for what aspects or contact for who to turn for help]:
 
+Ticket language TIPs :
+Work with FA for how to make it universal for business and developer. 
+Balance Precise, concise, 
 
-OTHER STATES or EDGE CASES or ACCESSIBILITY Concerns:
-	A. They decide to go back to the top and retype the street address. Expected behavior would be to keep the expansion open and replace all the other data I all fields if a new address is selected. 
-	B. Type full address and NOT choose and address - how to handle white space, comma and formatting excess info like ZIP if not required in that field …
+What is "Done"? Or acceptance criteria 
+https://www.productplan.com/glossary/acceptance-criteria/![image](https://user-images.githubusercontent.com/102767761/222247421-6f7017bd-dbc1-443c-afed-7dcb39dc92a1.png)
 
-	A. What if they don’t see their address ? Not sure if we are handling error states in that case- US vs the default  integration error state 
-	B. LANG (mostly NA minus for Arabic type stuff) 
-
-
-
-EFFORT level:
-1. fancy 
-
-
-5. least fancy 
-DEFAULT most common user expectaions .. ex: notificaitons in an app that needs them 
-
-
-
-
-CAUTIONS: with integrations they usually need to be tested in close to as prod possible
-
-
-![image](https://user-images.githubusercontent.com/102767761/221994224-8320aaf7-7895-45ce-b773-db6ec7f5fdf5.png)
-
-
-
-NOTES incomplete thoughts 
-Basing things on events ?
-Or style
-Feature description and or Purpose: We want to capture the street address and then expand 
-	A. Speed
-	B. Accurate and/or Correctness
-
-In the spirit of Writing up docs and pseudocode PRE coding 
-
-TYPE
-UI Event based
-FORMS
-
-CLICKS etc 
-
-Diff process slightly maybe 
-
-LOG for GOALS  to update in @work
-
-	1. Touch base with Jode over edge cases 
-	- ENTER key with incomplete 
-![image](https://user-images.githubusercontent.com/102767761/221994289-e9bcb834-2f45-4d09-848b-008fa0d22b01.png)
