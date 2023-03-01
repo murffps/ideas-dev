@@ -8,3 +8,21 @@ Common mistakes I hear often:
 Not to always plan for “scale” unless you only have a small and very limited # of users.
 
 Not resuing stuff and buidling every things as a pattern that is resuable in 98% of cases :) 
+
+
+not having place ofr innovation push back and also enough security an d or structure 
+
+new desigsn that end up taking too long since the TECh was not fully vetted enough
+Reinventing the wheel instead of REUSE 
+variations on reusable without tons of cause
+
+beyond this there is the weird dangerous though to say "I am the business you the developer" 
+
+
+TYPES of Tickets TAG #
+BUGS -0 various types
+
+UI BOTH
+VISUAL 
+FUNCTIONAL 
+
