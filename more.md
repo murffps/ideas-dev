@@ -26,3 +26,9 @@ UI BOTH
 VISUAL 
 FUNCTIONAL 
 
+
+add security to that as well like AUTH and users and all that
+Deve3loper best practices checklist 
+
+developer size estimate 
+Businerss score
