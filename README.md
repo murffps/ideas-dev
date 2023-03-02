@@ -53,6 +53,8 @@ My job is to write code or be the interpreter of tickets maybe that is my job
 Cross funtoinal teams effectiveness 
 Each person wants createive wiggle room and not feel like a robot 
 
+why wold they NOT fully flush it out ? is that not their job - they disagree its their job and or they dont have the skill or time or both to do that. ?
+why would they not equally be touchign bases with the DEVE while writing hte ticket to show in depth diers to know just aliek a dev owudl reach out to know his side..
 ?
 And not feel micro managed 
 see bottom comments 
