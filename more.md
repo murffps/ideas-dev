@@ -1,3 +1,8 @@
+How many times need to follow up measure was the metric i had as goal and more effieccnt work in colalboration for as well n those follow ups 
+- hit me up with nay questions 
+- aska nd they thin i am dub - ONE side or the other is not doing their job inference - where is the balance - for cross teams roles 
+- desing, Business, qa, dev, FA, clients and staek holders 
+
 Common mistakes I hear often:
 “You cannot plan for everything.” – Principle: web development is FINITE. There is a set of finite events that can happen when a user interacts with a webpage. There can be a finite set of browsers and devices we fully support and so on (like NOW but yes future can change this and break this idea). 
 
