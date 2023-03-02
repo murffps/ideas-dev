@@ -46,5 +46,11 @@ think -- modern day reality - I heard look at the time machien and see the MVP t
  Erbis
 A Minimum Lovable Product (MLP) is an initial offering that users love from the start. Show your investors growth through outstanding design and unbeatable performance.
 
+
+
+Prcniele of succint. Sspeicfic vs precise - not be heavy on either sdie  balance 
+
+Only share what is nEEDED to them
+
 A Minimum Lovable Product (MLP) is an initial offering that users love from the start. Show your investors growth through outstanding design and unbeatable performance.
 
