@@ -40,3 +40,9 @@ Business and or design FA - assume the DEV knows how to handle - I mean ya that 
 when do we need to spell the case out in the ticket VS dev answering that question -- ib thier own while coding... or pre coding then reaching out. 
 its the reaching out ... 
 so and so may not ealsiy be realidy avialble this totlaly delaying the work -- 
+RULE of assumption: we ask not because we cannot see the common sense but because - WE WILL FIX later- attitude and the quality should not be a general statement from busines unless its explcity stated  or ..
+
+Love my mvp first vs - if you release and dont get peopel saying it sucks then you released TOO late jargon .. two camps frist one is growoing.. I lean that way du eto never using apps that are half baked - we made it ot relase now lets grow our users. 
+
+think -- modern day reality - I heard look at the time machien and see the MVP there... now loko at totday ... but that is wrong that is liek saying look at the first ca
+
