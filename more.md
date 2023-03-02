@@ -32,3 +32,11 @@ Deve3loper best practices checklist
 
 developer size estimate 
 Businerss score
+
+
+
+Business and or design FA - assume the DEV knows how to handle - I mean ya that is "Obvious" is mostly relative to the apps they use and the expected behavior back to my speical notes 
+
+when do we need to spell the case out in the ticket VS dev answering that question -- ib thier own while coding... or pre coding then reaching out. 
+its the reaching out ... 
+so and so may not ealsiy be realidy avialble this totlaly delaying the work -- 
