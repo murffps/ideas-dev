@@ -33,8 +33,6 @@ Deve3loper best practices checklist
 developer size estimate 
 Businerss score
 
-
-
 Business and or design FA - assume the DEV knows how to handle - I mean ya that is "Obvious" is mostly relative to the apps they use and the expected behavior back to my speical notes 
 
 when do we need to spell the case out in the ticket VS dev answering that question -- ib thier own while coding... or pre coding then reaching out. 
@@ -44,5 +42,5 @@ RULE of assumption: we ask not because we cannot see the common sense but becaus
 
 Love my mvp first vs - if you release and dont get peopel saying it sucks then you released TOO late jargon .. two camps frist one is growoing.. I lean that way du eto never using apps that are half baked - we made it ot relase now lets grow our users. 
 
-think -- modern day reality - I heard look at the time machien and see the MVP there... now loko at totday ... but that is wrong that is liek saying look at the first ca
+think -- modern day reality - I heard look at the time machien and see the MVP there... now loko at totday ... but that is wrong that is liek saying look at the first car and syaing cool MVP car it works as a car - but that is not saying cars my new car company should be -- to compete we have to be where the top guys alaredy are ... here we call our USERS boncom and not the user and not concept of competition ... so we dont worry about it -- 
 
