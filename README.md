@@ -38,6 +38,25 @@ OTHER STATES [this should cover ALL edge cases even if stating to not worry* in 
 CAUTIONS/GOTCHAs or related work worth mentioning:
  
  
+ DevSecOPs journal 
+
+
+JIRA ticket MIAN GOAL - is to provide a central hub of info for what work is to be done and what is DONE and what is success. The busines susually has some ivory tower nah man you are dev do what I say we don’t need to expalin our reasoins. 
+
+CODE - serves users -- bsuiness GAIN such and such
+
+Who is the END consumer ?
+ why value 
+
+Why is it my job to flush out a ticket fully
+My job is to write code or be the interpreter of tickets maybe that is my job 
+Cross funtoinal teams effectiveness 
+Each person wants createive wiggle room and not feel like a robot 
+
+?
+And not feel micro managed 
+see bottom comments 
+ 
 Ticket language TIPs:
 Work with FA for how to make it universal for business and developer. Shoot for a balance precision, concise, simplicity and technical jargon.
  
