@@ -77,3 +77,48 @@ Change Process: If anything above changes do this…. Who notates?  What type of
 
 
 *-there is something to be said for level of sophistication of the required solution. User expectations are important to manage so there can be something noted if not covered as to maybe future enhancement. This pre planning will prevent needless questions that always surely can come from each developers experience as to how something "should behave"![image](https://user-images.githubusercontent.com/102767761/222252691-6a5d5281-00b3-4c9f-a5b7-2c0e87b4ad07.png)
+
+
+
+
+Research [understand the issue]
+
+
+Reproduce error:
+Conditions:
+	Auto play
+	Subtitles not showing up 
+	no audio 
+
+Not an issue (they show up as would be expected) :
+Surface duo -- worked 
+iPhone 
+Full video
+
+Understand the native API inner workings:
+	- Text tracks property https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement Returns list  listed test tracks- 
+
+Understand what drives how text tracks loads if any of the below are related cause
+	(a) Dimension size (mobile web/desktop etc. tablet) 
+	(b) Device brand or model 
+	(c) Phone OS settings or Browser settings 
+	(d) Browser 
+	
+Consider if device related then List of minimum supported tech aka devices or browsers 
+
+Check multiple languages 
+
+Compare issue to code already in the code base for reuse or pattern compare
+Locate files for code plan architecture if needed. 
+
+Evaluate multiple possible solutions 
+Pseudo code 
+Cover edge cases 
+
+
+QA
+Check for related moving parts -- try to break in those cases 
+Optimize - for maintainability or SOLID code length what 
+QA again if Optimized with changes 
+
+
