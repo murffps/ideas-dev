@@ -1,5 +1,10 @@
 # ideas-dev
+3 things for consideration architecture / solutions 
 
+1. Requirements
+2. Assumptions
+3. Restraints
+   
 WORK ITEM TEMPLATE
 
 Requirement/User story: 
